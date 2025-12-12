@@ -46,6 +46,7 @@ Used originally for: Studies on influence, spread dynamics, and centrality in po
 
 | File | Description |
 |------|--------------|
+| `Facebook_Ego_Notebook.ipynb` | Jupyter Notebook containing the exploration of the Facebook Ego Network. |
 | `US_Congress_Notebook.ipynb` | Jupyter Notebook containing the exploration of the Twitter Network. |
 | `Link_Analysis_Study.pdf` | Detailed report discussing methodology, results, and conclusions. |
 | `requirements.txt` | List of Python packages used. |
