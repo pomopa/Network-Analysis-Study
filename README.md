@@ -4,7 +4,7 @@
 - [Pau Casé](https://github.com/paucase4)
 
 ## 📌 Project Overview
-This project performs a comparative link analysis on two real-world social network datasets obtained from the Stanford Network Analysis Project (SNAP).
+This project performs a comparative link analysis on two real-world social network datasets obtained from the [Stanford Network Analysis Project (SNAP)](https://snap.stanford.edu).
 
 The goal is to explore their structural properties, identify influential nodes, detect communities, and compare how different types of social graphs behave.
 
