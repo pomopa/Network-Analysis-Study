@@ -46,7 +46,7 @@ Used originally for: Studies on influence, spread dynamics, and centrality in po
 
 | File | Description |
 |------|--------------|
-| `LinkAnalysisStudy.ipynb` | Jupyter Notebook containing the preprocessing and exploratory analysis of data, as well as the multiple model configurations and evaluations. |
+| `US_Congress_Notebook.ipynb` | Jupyter Notebook containing the exploration of the Twitter Network. |
 | `Link_Analysis_Study.pdf` | Detailed report discussing methodology, results, and conclusions. |
 | `requirements.txt` | List of Python packages used. |
 
